@@ -1,0 +1,57 @@
+body{
+  font-size: 16px;
+  color: #fff;
+  background-color: #C5C585;
+}
+
+#header-nav{
+  background-color: #910A0A;
+  border-radius: 0;
+  border: 0;
+}
+.navbar-brand h1{ /* resto name */
+  color: white;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 1.0;
+
+}
+.navbar-brand a:hover, .navbar-brand a:focus{ /*disable link highlight*/
+  text-decoration: none;
+}
+
+#nav-list a{
+  color: white;
+  text-align: center;
+}
+#nav-list a:hover{
+  background: #805D5D;
+}
+#nav-list a{
+  font-size: 1.6em;
+}
+.navbar-header button.navbar-toggle, .navbar-head. icon-bar{
+  border: 1px solid #61122f;
+}
+
+.chicken {
+  font-weight: bold;
+  font-size: 1.5em;
+  text-align: center;
+  padding-top:10px;
+}
+.info {
+  text-align: justify;
+  padding:10px;
+}
+
+h2 {
+  font-size: 2em;
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+}
